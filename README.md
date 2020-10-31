@@ -1,2 +1,2 @@
-# 3d-Cube
+# 3D-Cube
 Rotating 3D Cube
